@@ -24,4 +24,4 @@ Plugins
 
 OBS has an API allowing developers to create their own unique plugins, giving them and others complete control of their streaming experience.
 
-If you're interested in developing plugins for OBS, have a look at out [[API documentation and tutorials|OBS-Plugin-API-Documentation]].
+If you're interested in developing plugins for OBS, have a look at our [[API documentation and tutorials|OBS-Plugin-API-Documentation]].
