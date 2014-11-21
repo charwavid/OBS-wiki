@@ -1,1 +1,27 @@
-Добро пожаловать в OBS Вики! 
+What is OBS?
+============
+
+Open Broadcaster Software is free and open source software for video recording and live streaming. Supported features include:
+* Encoding using H264 (x264) and AAC.
+* Support for Intel Quick Sync Video (QSV) and NVENC.
+* Unlimited number of scenes and sources.
+* Live RTMP streaming to Twitch, YouTube, DailyMotion, Hitbox and more.
+* File output to MP4 or FLV.
+* GPU-based game capture for high performance game streaming.
+* DirectShow capture device support (webcams, capture cards, etc).
+* Windows 8 high speed monitor capture support.
+* Bilinear or lanczos3 resampling.
+
+How much does it cost?
+======================
+
+OBS is completely free! Not a dime! There are no subscriptions or licenses, no payments at all. OBS is available to everyone, with source code publicly available [on github](https://github.com/jp9000/OBS) for anyone to help contribute.
+
+While OBS will always remain free, you are welcome to [donate](https://obsproject.com/donate) to support our development efforts.
+
+Plugins
+=======
+
+OBS has an API allowing developers to create their own unique plugins, giving them and others complete control of their streaming experience.
+
+If you're interested in developing plugins for OBS, have a look at out [[API documentation and tutorials|OBS-Plugin-API-Documentation]].
