@@ -105,7 +105,7 @@ TutorialPlugin.cpp:
     
     bool LoadPlugin()
     {
-        OBSRegisterImageSourceClass(TEXT("VideoSource"), TEXT("Tutorial"), (OBSCREATEPROC)CreateTutorialImage, (OBSCONFIGPROC)NULL);
+        OBSRegisterImageSourceClass(TEXT("TutorialImage"), TEXT("Tutorial Image Source"), (OBSCREATEPROC)CreateTutorialImage, (OBSCONFIGPROC)NULL);
         return true;
     }
     
