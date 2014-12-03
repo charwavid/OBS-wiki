@@ -7,6 +7,7 @@ Getting Started:
 * [[How to set up your environment|Plugin-Tutorial-\-Setting-Up-Your-Environment]]
 * [[Write your first plugin|Plugin-Tutorial-\-Building-Your-First-First-Plugin]]
 * [[Add a video source|Plugin-Tutorial-\-Create-A-New-Video-Source]]
+* [[Programatically add video sources to the scene|Plugin-Tutorial-\-Programatically-Add-Video-Sources-to-the-Scene]]
 
 Reference materials (0% complete):
 * [[Callbacks|Plugin-Callbacks]]
