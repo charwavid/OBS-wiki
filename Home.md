@@ -1,6 +1,6 @@
 Important Note
 ============
-OBS has been superseded by a new version, [obs-studio](https://github.com/jp9000/obs-studio), which has .  If you plan to do development for OBS, please make your way to the new repository and check out the new code.
+OBS has been superseded by a new version, [obs-studio](https://github.com/jp9000/obs-studio), which is multi-platform, has better code, better design, better API, better performance, and greater extensibility.  If you plan to do development for OBS, please make your way to the new repository and check out the new code.
 
 What is OBS?
 ============
