@@ -16,13 +16,6 @@ Open Broadcaster Software is free and open source software for video recording a
 * Windows 8 high speed monitor capture support.
 * Bilinear or lanczos3 resampling.
 
-How much does it cost?
-======================
-
-OBS is completely free! Not a dime! There are no subscriptions or licenses, no payments at all. OBS is available to everyone, with source code publicly available [on github](https://github.com/jp9000/OBS) for anyone to help contribute.
-
-While OBS will always remain free, you are welcome to [donate](https://obsproject.com/donate) to support our development efforts.
-
 Plugins
 =======
 
